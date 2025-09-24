@@ -32,14 +32,5 @@ Explore the future of AI through **multimodal systems** that combine **text, vis
 
 Whether you're a researcher, engineer, or enthusiast, this training plan provides a guided pathway to mastering the theory and practice of **Generative AI** and its real-world applications.
 
-# Course Content
-
-| Lecture Name | Topic Covered |
-|--------------|---------------|
-| Lecture-1 | History of AI, Paradigm Shifts in AI, AI vs ML vs DL, Generative AI, Reinforcement Learning and Autonomous Agents |
-| Lecture-2 | Evolution of Language Models, Prompt Engineering: Zero shot, Few Shot, Chain of Thought, Chan of Thought, Multi Turn Prompting, Role Play |
-| Lecture-3 | Neuron architecture (input, weights, bias, output), Forward propagation in MLP, Multi-layer structure (hidden layers), Weight initialization |
-
-
 # Generative AI Training
 [document](https://docs.google.com/document/d/1aB6RvGd7HrOd29R-oE2GDyTEuVBFMNy_EMlwyfSHRGg/edit?usp=sharing)
